@@ -10,7 +10,7 @@ hand-labeler-successfully-applied = Etiqueta aplicada con éxito
 hand-labeler-successfully-removed = Etiqueta eliminada con éxito
 
 # Añadido a la descripción de un objeto con una etiqueta en la entrada
-hand-labeler-has-label = Este objeto tiene una etiqueta que dice '{$label}'
+hand-labeler-has-label = Este artículo tiene una etiqueta que dice '{$label}'
 
 # Texto del verbo
 hand-labeler-remove-label-text = Eliminar etiqueta
